@@ -1,0 +1,15 @@
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\bin\Debug\net9.0\Homeee.exe
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\bin\Debug\net9.0\Homeee.deps.json
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\bin\Debug\net9.0\Homeee.runtimeconfig.json
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\bin\Debug\net9.0\Homeee.dll
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\bin\Debug\net9.0\Homeee.pdb
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.AssemblyInfoInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.AssemblyInfo.cs
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.sourcelink.json
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.dll
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\refint\Homeee.dll
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.pdb
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\Homeee.genruntimeconfig.cache
+C:\Users\Nihad\OneDrive\Desktop\Homeee\Homeee\obj\Debug\net9.0\ref\Homeee.dll

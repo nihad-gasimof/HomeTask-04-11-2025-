@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\itradable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\itradable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|c:\\users\\nihad\\onedrive\\desktop\\homeee\\homeee\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338A0AD-468B-4B48-A6D8-338F0DE225A3}|Homeee\\Homeee.csproj|solutionrelative:homeee\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\Inventory.cs",
+              "RelativeDocumentMoniker": "Homeee\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\Inventory.cs",
+              "RelativeToolTip": "Homeee\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:48:08.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Homeee\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\ExtensionMethod.cs",
+              "RelativeToolTip": "Homeee\\ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:32:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\GameStats.cs",
+              "RelativeDocumentMoniker": "Homeee\\GameStats.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\GameStats.cs",
+              "RelativeToolTip": "Homeee\\GameStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:10:05.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\Item.cs",
+              "RelativeDocumentMoniker": "Homeee\\Item.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\Item.cs",
+              "RelativeToolTip": "Homeee\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:06:59.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITradable .cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\ITradable .cs",
+              "RelativeDocumentMoniker": "Homeee\\ITradable .cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\ITradable .cs",
+              "RelativeToolTip": "Homeee\\ITradable .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:06:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsable.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\IUsable.cs",
+              "RelativeDocumentMoniker": "Homeee\\IUsable.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\IUsable.cs",
+              "RelativeToolTip": "Homeee\\IUsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:05:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\Program.cs",
+              "RelativeDocumentMoniker": "Homeee\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Homeee\\Homeee\\Program.cs*",
+              "RelativeToolTip": "Homeee\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:05:15.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
